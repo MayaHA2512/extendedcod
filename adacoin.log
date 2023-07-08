@@ -1,0 +1,29 @@
+block (1/1/1970) Genesis Block instantiated
+block (2023-12-2) [object Object] instantiated
+block (2023-3-2) [object Object] instantiated
+block (2023-3-19) [object Object] instantiated
+block (1/1/1970) Genesis Block instantiated
+block (2022-1-19) [object Object] instantiated
+block (2022-1-20) [object Object] instantiated
+block (undefined): balance £0.00 
+block (1/1/1970) Genesis Block instantiated
+block (2023-1-2) [object Object] instantiated
+block (2023-1-2) [object Object] instantiated
+block (2023-1-2) [object Object] instantiated
+block (2023-1-2):
+      transaction missing specific credit or debit type
+block (2023-1-2): transaction unexpected debit value format (n.nn) - -25.50 
+block (2023-1-2):
+      transaction missing specific credit or debit type
+block (undefined): balance £0.00 
+block (1/1/1970) Genesis Block instantiated
+block (2023-1-2) [object Object] instantiated
+block (2023-1-2) [object Object] instantiated
+block (2023-1-2) [object Object] instantiated
+block (2023-1-2):
+      transaction missing specific credit or debit type
+block (2023-1-2): transaction unexpected debit value format (n.nn) - -25.50 
+block (1/1/1970) Genesis Block instantiated
+block (2023-3-2) [object Object] instantiated
+block (2023-3-2) [object Object] instantiated
+block (undefined): balance £25.50 
